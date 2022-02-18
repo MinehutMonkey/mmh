@@ -12,7 +12,7 @@
  border-radius:10px;
  right:89%;
  top:13%;
- height:75%;
+ height:70%;
  width: 10%;
  background-color:red;
  border: 1 px red;
@@ -23,7 +23,7 @@
  border-radius:10px;
  left:89%;
  top:13%;
- height: 75%;
+ height: 70%;
  width: 10%;
  background-color:yellow;
  border: 1 px yellow;
@@ -34,7 +34,7 @@
  border-radius:10px;
  left:12%;
  top:13%;
- height: 75%;
+ height: 70%;
  width: 76%;
  background-color:blue;
  border: 1 px blue;
@@ -45,7 +45,7 @@
  background-color:green;
  border: 1 px green;
  border-radius:10px;
- top:89%;
+ top:84%;
  height: 10%;
  width: 99%;
  position:absolute;
