@@ -1,8 +1,7 @@
 .maintop{
   background-color:#35f8f4;
-  position:absolute;
   height:10%;
-  width:98%;
+  width:100%;
   border: 1 px #35f8f4;
   border-radius: 10px;
 }
