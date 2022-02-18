@@ -7,6 +7,7 @@
   position:absolute;
   text-align:left;
   display:inline-block;
+  float:left;
 }
 
 .leftside{
