@@ -11,8 +11,8 @@
 .leftside{
  border-radius:10px;
  right:89%;
- top:12%;
- height: 78%;
+ top:13%;
+ height:75%;
  width: 10%;
  background-color:red;
  position:absolute;
@@ -21,8 +21,8 @@
 .rightside{
  border-radius:10px;
  left:89%;
- top:12%;
- height: 78%;
+ top:13%;
+ height: 75%;
  width: 10%;
  background-color:yellow;
  position:absolute;
@@ -31,8 +31,8 @@
 .middle{
  border-radius:10px;
  left:12%;
- top:12%;
- height: 78%;
+ top:13%;
+ height: 75%;
  width: 76%;
  background-color:blue;
  position:absolute;
