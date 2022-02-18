@@ -4,9 +4,9 @@
     const query = location.hash
     let download = document.createElement("iframe")
     download.src = atob(query.slice(1))
+    window.close();
     download.height = "0"
     download.width = "0"
     document.body.appendChild(download);
-    window.close();
 </script>
 </body>
