@@ -4,6 +4,7 @@
   width:100%;
   border: 1 px #35f8f4;
   border-radius: 10px;
+  position:absolute;
 }
 
 .test{
