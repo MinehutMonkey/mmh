@@ -9,7 +9,6 @@
 }
 
 .leftside{
- position:absolute;
  border-radius:10px;
  right:88%;
  height: 78%;
@@ -18,7 +17,6 @@
 }
 
 .rightside{
- position:absolute;
  border-radius:10px;
  left:88%;
  top:11%;
@@ -29,7 +27,6 @@
 
 .middle{
  top: 11%;
- position:absolute;
  left: 11%;
  width:66%;
  height: 78%;
@@ -42,7 +39,6 @@
   width:99%;
   border: 1 px #35f8f4;
   border-radius: 10px;
-  position:absolute;
   display:block;
   top: 88%;
 }
