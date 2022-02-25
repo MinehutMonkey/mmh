@@ -1,0 +1,13 @@
+td {
+  font-size:300%;
+  text-align:center;
+}
+
+.buttonbutton {
+  background-color: lightgreen;
+  position: absolute;
+  width: 20%; 
+  right:40%;
+  font-size: 25px;
+  border: 3px solid #000001;
+}
