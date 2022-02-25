@@ -5,6 +5,7 @@ td {
 
 .buttonbutton {
   background-color: lightgreen;
+  border-radius:10px;
   position: absolute;
   width: 20%; 
   right:40%;
