@@ -53,11 +53,12 @@
     <script>
       let table = document.getElementById("chars");
         for(let i = 1000; i < 2000; i++){
+            let real = 2000 - i;
             let row = table.insertRow(0);
             let key = row.insertCell(0);
             let value = row.insertCell(1);
             key.innerHTML =  "& # "+i+" ;"
-            value.innerHTML = String.fromCharCode(i);
+            value.innerHTML = String.fromCharCode(real);
         }
     </script>
   </body>
