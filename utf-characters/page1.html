@@ -15,16 +15,7 @@
   } else if (a == "Enter"){
     location='http://minehutmonkey.tk/utf-characters/page2';
   }
-}
-    
-    let table = document.getElementById("chars");
-        for(let i = 1000; i < 2000; i++){
-            let row = table.insertRow(0);
-            let key = row.insertCell(0);
-            let value = row.insertCell(1);
-            key.innerHTML =  "& # "+i+" ;"
-            value.innerHTML = String.fromCharCode(i);
-        }
+  }
 </script>
   </head>    
   <body onkeydown="page1(event)">
@@ -59,5 +50,15 @@
       </tbody>
       </table>
     </center>
+    <script>
+      let table = document.getElementById("chars");
+        for(let i = 1000; i < 2000; i++){
+            let row = table.insertRow(0);
+            let key = row.insertCell(0);
+            let value = row.insertCell(1);
+            key.innerHTML =  "& # "+i+" ;"
+            value.innerHTML = String.fromCharCode(i);
+        }
+    </script>
   </body>
 </html>
